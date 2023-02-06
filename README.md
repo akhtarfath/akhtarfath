@@ -10,7 +10,7 @@ Nice to meet you! :)
 ## ⚡ Technologies
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![SQLServer](https://img.shields.io/badge/-SQLServer-336791?style=flat-square&logo=sqlsrv)
+![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat-square&logo=sqlsrv)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

@@ -25,6 +25,6 @@ I'm currently focusing on learning Backend Development using Go.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true?theme=github_dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&hide=TeX&layout=compact) -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akhtarfath.akhtarfath) -->

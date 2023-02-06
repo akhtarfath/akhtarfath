@@ -21,8 +21,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
-👀 Find Me: <br />
-
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)

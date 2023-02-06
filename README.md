@@ -24,7 +24,7 @@ I'm currently focusing on learning Backend Development using Go.
 
 ### 👀 Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
-[![Website IO Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Website&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
+[![Home IO Badge](https://img.shields.io/badge/-Home-black?style=flat-square&logo=Home&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&hide=TeX&layout=compact) -->

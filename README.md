@@ -14,10 +14,10 @@ I'm currently focusing on learning Backend Development using Go.
 ## ⚡️ Technologies
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
+![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
+![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)

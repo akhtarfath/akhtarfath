@@ -6,8 +6,7 @@
 
 🎯 I'm currently focusing on learning Backend Development using Go.
 
-⚡️ Technologies: <br />
-
+Technologies: <br />
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)

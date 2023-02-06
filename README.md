@@ -1,13 +1,13 @@
 # Hi, I'm Fathan 👋
 ### I'm Software Engineer ✌🏻
 
-🌱
+🌱__
 I am a ****Fullstack Developer**** who likes to challenge new things I can learn. I am so enthusiastic about programming and software development. I have developed excellent programming and analytic skills and supplemented these skills through my competency in software development.
 
-🎯
+🎯__
 I'm currently focusing on learning Backend Development using Go.
 
-⚡️ 
+⚡️__
 Technologies:
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
@@ -22,7 +22,7 @@ Technologies:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
-👀 
+👀__
 Find Me:
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)

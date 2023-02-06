@@ -7,12 +7,6 @@ I am a ****Fullstack Developer**** who likes to challenge new things I can learn
 🎯
 I'm currently focusing on learning Backend Development using Go.
 
-
-### 👀 Find Me
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
-[![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=Github&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
-
 ### ⚡️ Technologies
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
@@ -26,5 +20,11 @@ I'm currently focusing on learning Backend Development using Go.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+
+### 👀 Find Me
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
+[![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=Github&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&hide=TeX&layout=compact) -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akhtarfath.akhtarfath) -->

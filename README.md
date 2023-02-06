@@ -8,8 +8,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
-Technologies <br />
-
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)

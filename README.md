@@ -15,6 +15,8 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
+<br />
+
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)

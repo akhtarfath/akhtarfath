@@ -1,6 +1,6 @@
 # Hi, I'm Fathan 👋
 
-🌱 I am a ****Fullstack Developer**** who likes to challenge new things I can learn. I am so enthusiastic about programming and software development. I have developed excellent programming and analytic skills and supplemented these skills through my competency in software development.
+🌱 I am a ****Fullstack Developer**** who likes to challenge new things to learn.
 
 🎯 I'm currently focusing on learning Backend Development using Go.
 

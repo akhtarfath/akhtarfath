@@ -1,8 +1,7 @@
 # Hi, I'm Fathan 👋
 
-🌱 I am a ****Fullstack Developer**** who likes to challenge new things to learn.
-
-🎯 I'm currently focusing on learning Backend Development using Go.
+I am a ****Fullstack Developer**** who likes to challenge new things to learn.
+🌱 I'm currently focusing on learning Backend Development using Go.
 
 <br />
 

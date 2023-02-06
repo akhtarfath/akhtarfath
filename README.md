@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 
 
-I'm Software Engineer
+I'm Fathan. I'm Software Engineer
 
-
-My name is Muhammad Fathan Aulia you can call my nickname Fathan. I am a Fullstack Developer who likes to challenge new things I can learn. I am so enthusiastic about programming and software development. I have developed excellent programming and analytic skills and supplemented these skills through my competency in software development.
+My name is Muhammad Fathan Aulia you can call my nickname Fathan. I am a ****Fullstack Developer**** who likes to challenge new things I can learn. I am so enthusiastic about programming and software development. I have developed excellent programming and analytic skills and supplemented these skills through my competency in software development.
 
 
 

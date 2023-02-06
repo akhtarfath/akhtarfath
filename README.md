@@ -23,7 +23,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

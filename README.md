@@ -9,7 +9,7 @@ I'm currently focusing on learning Backend Development using Go.
 
 ## 👀 Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
-[![Instagram Badge](https://img.shields.io/badge/-mfthnna-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/mfthnna/)](https://www.instagram.com/mfthnna/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mfthnna/)](https://www.instagram.com/mfthnna/)
 
 ## ⚡️ Technologies
 

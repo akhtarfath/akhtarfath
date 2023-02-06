@@ -14,6 +14,7 @@ Nice to meet you! :)
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)

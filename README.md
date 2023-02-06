@@ -7,7 +7,10 @@ My name is Muhammad Fathan Aulia you can call me Fathan. I am a ****Fullstack De
 In my life, I am always positive thinking and enjoy what I am doing. Finish what has become your responsibility, do it thoroughly, and do your best.
 Nice to meet you! :)
 
-## ⚡ Technologies
+## 👀 Find Me
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
+
+## ⚡️ Technologies
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat-square&logo=sqlsrv)
@@ -18,7 +21,5 @@ Nice to meet you! :)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&hide=TeX&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&hide=TeX&layout=compact) -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akhtarfath.akhtarfath)
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)

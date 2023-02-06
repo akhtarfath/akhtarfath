@@ -7,10 +7,11 @@ I am a ****Fullstack Developer**** who likes to challenge new things I can learn
 🎯
 I'm currently focusing on learning Backend Development using Go.
 
+
 ## 👀 Find Me
+[![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
-[![Showwcase Badge](https://img.shields.io/badge/-Octocat-black?style=flat-square&logo=octocat&logoColor=white&link=https://akhtarfath.showwcase.com)](https://akhtarfath.showwcase.com)
 
 ## ⚡️ Technologies
 

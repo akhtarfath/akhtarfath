@@ -18,7 +18,7 @@ I'm currently focusing on learning Backend Development using Go.
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=zsh)
+![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnubash)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 

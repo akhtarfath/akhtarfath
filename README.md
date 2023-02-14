@@ -21,9 +21,9 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhtarfath&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhtarfath&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -16,7 +16,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=reactjs)
+![Flutter](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)

@@ -11,7 +11,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
+![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Flutter](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

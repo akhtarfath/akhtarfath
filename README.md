@@ -2,7 +2,7 @@
 
 I am a ****Fullstack Developer**** who likes to challenge new things to learn. <br/>
 
-🌱 I'm focusing on learning Backend Development using Go and Mobile Development using Flutter.
+🌱 I'm focusing on learning Backend Development using ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) and Mobile Development using ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter).
 
 <br />
 

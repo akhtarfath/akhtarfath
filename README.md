@@ -8,14 +8,14 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 
 ![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnubash)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)

@@ -21,6 +21,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things. <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
+[![Instagram Badge](https://img.shields.io/badge/-mfthnna-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mfthnna/)](https://www.instagram.com/mfthnna/)
 <!-- [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io) -->
 
 <!-- ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=transparent) -->

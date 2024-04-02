@@ -25,7 +25,6 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhtarfath&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats-sigma-five) -->
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhtarfath&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats-sigma-five)

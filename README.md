@@ -20,7 +20,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 <!-- ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
-[![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)
+<!-- [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io) -->
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)

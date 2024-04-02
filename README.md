@@ -23,7 +23,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things. <br/>
 [![Gitlab Badge](https://img.shields.io/badge/-muhammadfathan_a-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/muhammadfathan_a)](https://gitlab.com/muhammadfathan_a)
 <!-- [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io) -->
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+<!-- ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfath&count_private=true&show_icons=true&include_all_commits=true&theme=transparent) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akhtarfath&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 

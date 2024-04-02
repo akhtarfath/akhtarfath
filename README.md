@@ -8,15 +8,16 @@ I am a ****Fullstack Developer**** who likes to challenge new things to learn. <
 
 ![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnubash)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Flutter](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) -->
+<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
-![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift)
+<!-- ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
+![Postgres](https://img.shields.io/badge/-Posgresql-black?style=flat-square&logo=postgresql)
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfathana-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadfathana/)](https://www.linkedin.com/in/muhammadfathana/)
 [![Home Badge](https://img.shields.io/badge/-akhtarfath.github.io-black?style=flat-square&logo=Homebrew&logoColor=white&link=https://akhtarfath.github.io)](https://akhtarfath.github.io)

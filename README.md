@@ -1,20 +1,21 @@
-# Hi. I'm Fathan 👋
+# Fathan here's. 👋
 
-I am a ****Fullstack Developer**** who likes to challenge new things. <br/>
+I am a ****Fullstack Developer**** who likes to challenge new things. 🥸 <br/>
 
-<pre> 🌱 I'm focusing on the Backend & Mobile Development with Go and Flutter. </pre>
+<pre> 🌱 Currently I'm focusing on the <strong>Backend</strong> & <strong>Mobile</strong> Development with <strong>Go</strong> and <strong>Flutter</strong>. </pre>
 
 <br />
 
 ![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnubash)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
+![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
 ![Postgres](https://img.shields.io/badge/-Posgresql-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
+![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 ![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) -->
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!-- ![Android](https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift) -->

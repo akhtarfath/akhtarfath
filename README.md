@@ -2,7 +2,7 @@
 
 I am a ****Fullstack Developer**** who likes to challenge new things. <br/>
 
-🌱 I'm focusing on the Backend with Go and Mobile with Flutter.
+<pre> 🌱 I'm focusing on the Backend & Mobile Development with Go and Flutter. </pre>
 
 <br />
 

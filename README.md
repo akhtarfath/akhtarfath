@@ -1,4 +1,4 @@
-# Hi.. I'm Fathan 👋
+# Hi. I'm Fathan 👋
 
 I am a ****Fullstack Developer**** who likes to challenge new things. <br/>
 

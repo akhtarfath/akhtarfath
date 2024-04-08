@@ -2,7 +2,7 @@
 
 I am a ****Fullstack Developer**** who likes to challenge new things. 🥸 <br/>
 
-<pre> 🌱 Currently I'm focusing on the <strong>Backend</strong> & <strong>Mobile</strong> Development with <strong>Go</strong> and <strong>Flutter</strong>. </pre>
+<pre> 🌱 Currently, I'm focusing on the <strong>Backend</strong> & <strong>Mobile</strong> Development with <strong>Go</strong> and <strong>Flutter</strong>. </pre>
 
 <br />
 

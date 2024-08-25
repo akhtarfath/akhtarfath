@@ -10,7 +10,7 @@ I am a ****Fullstack Developer**** who likes to challenge new things. 🥸 <br/>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoft-sql-server)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlite)
 ![Postgres](https://img.shields.io/badge/-Posgresql-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Android](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
